@@ -1,0 +1,11 @@
+🧠 Task 1: Language Translation Tool (Web)
+▶ How to Run:
+Unzip the project.
+
+Go to Task1_Language_Translation folder.
+
+Double-click index.html — it opens in your browser.
+
+Type some text, choose languages, click Translate.
+
+
